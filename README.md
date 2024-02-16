@@ -5,6 +5,9 @@
 - [Литература](#Литература)
 - [Курсы](#Курсы)
 - [Шпаргалки](#Шпаргалки)
+- [Шпаргалки по протоколам](#Шпаргалки-по-протоколам)
+- [Статьи](#Статьи)
+- [Теоретический материал для изучения различных инструментов](Теоретический-материал-для-изучения-различных-инструментов)
 - [Telegram каналы](#Telegram-каналы)
 - [Telegram чаты](#Telegram-чаты)
 - [Telegram комьюнити разных вендоров](#Telegram-комьюнити-разных-вендоров)
@@ -38,14 +41,18 @@
 * [Статическая маршрутизация.](http://infocisco.ru/cheatsheet_router_configuration_ip_to_interface.html)
 * [Динамическая маршрутизация. Протокол RIP.](http://infocisco.ru/cheatsheet_static_routing.html)
 * [Таблица сетевых масок, префиксы маски. Короткая запись маски. Шпаргалка.](http://infocisco.ru/cheatsheet_dynamic_routing_protocol_rip.html)
+* [Шпаргалка IEEE 802.1X.](https://packetlife.net/media/library/5/IEEE_802.1X.pdf)
+* [Шпаргалка по IPv4 Multicast.](https://packetlife.net/media/library/7/IPv4_Multicast.pdf)
+* [Шпаргалка по IPv6.](https://packetlife.net/media/library/8/IPv6.pdf)
+* [Шпаргалка по IEEE 802.11 WLAN.](https://packetlife.net/media/library/4/IEEE_802.11_WLAN.pdf)
+
+## Шпаргалки по протоколам
+
+* [Таблица сетевых протоколов по функциональному назначению.](https://ru.wikipedia.org/wiki/Таблица_сетевых_протоколов_по_функциональному_назначению)
 * [Шпаргалка по протоколу BGP.](https://packetlife.net/media/library/1/BGP.pdf)
 * [Шпаргалка по протоколу EIGRP.](https://packetlife.net/media/library/2/EIGRP.pdf)
 * [Шпаргалка по группе протоколов First Hop Redundancy](https://packetlife.net/media/library/3/First_Hop_Redundancy.pdf) + [статья с описанием.](https://wiki.merionet.ru/articles/protokoly-gruppy-fhrp-first-hop-redundancy-protocols)
-* [Шпаргалка по IEEE 802.11 WLAN.](https://packetlife.net/media/library/4/IEEE_802.11_WLAN.pdf)
-* [Шпаргалка IEEE 802.1X.](https://packetlife.net/media/library/5/IEEE_802.1X.pdf)
 * [Шпаргалка по набору протоколов IPsec.](https://packetlife.net/media/library/6/IPsec.pdf)
-* [Шпаргалка по IPv4 Multicast.](https://packetlife.net/media/library/7/IPv4_Multicast.pdf)
-* [Шпаргалка по IPv6.](https://packetlife.net/media/library/8/IPv6.pdf)
 * [Шпаргалка по протоколу IS-IS.](https://packetlife.net/media/library/9/IS-IS.pdf)
 * [Шпаргалка по протоколу OSPF.](https://packetlife.net/media/library/10/OSPF.pdf)
 * [Шпаргалка по протоколу PPP.](https://packetlife.net/media/library/31/PPP.pdf)
@@ -65,10 +72,13 @@
 * [Компоненты сети (вычислительной, компьютерной, локальной).](http://infocisco.ru/osi_simple_language.html)
 * [Конечные устройства (end devices), промежуточные устройства (intermediary devices).](http://infocisco.ru/network_components.html)
 * [Cреды передачи (media), программные средства (сервисы и процессы).](http://infocisco.ru/network_components.html)
+* [TCP/IP Ports database.](https://www.speedguide.net/ports.php)
+* [Принципы сетевых атак и работа сетей.](https://netsim.erinn.io)
 
 ## Теоретический материал для изучения различных инструментов
 
-* [Онлайн руководство по tcpdump](https://hackware.ru/?p=10246#2) + [Полезный Cheat Sheet от SANS.](https://sansorg.egnyte.com/dl/8VIrX1K87d)
+* [Онлайн руководство по tcpdump.](https://hackware.ru/?p=10246#2) + [Полезный Cheat Sheet от SANS.](https://sansorg.egnyte.com/dl/8VIrX1K87d)
+* [Онлайн руководство по TShark.](https://cisoclub.ru/rukovodstvo-po-tshark/)
 * 
 
 ## Telegram каналы
