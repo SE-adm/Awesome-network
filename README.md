@@ -4,6 +4,7 @@
 ## Меню:
 - [Литература](#Литература)
 - [Курсы](#Курсы)
+- [Шпаргалки](#Шпаргалки)
 - [Telegram каналы](#Telegram-каналы)
 - [Telegram чаты](#Telegram-чаты)
 - [Telegram комьюнити разных вендоров](#Telegram-комьюнити-разных-вендоров)
@@ -24,6 +25,51 @@
 * [Компьютерные сети. Продвинутые темы. Созыкин.А.](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oh_w4_jtRnKE11aqeRldCFI) - в этом курсе приведены продвинутые темы компьютерных сетей, которые рекомендуется изучать после освоения основного курса (выше по ссылкам). Смотреть лекции можно в любой последовательности.
 * [Защищенные сетевые протоколы. Созыкин.А.](https://www.youtube.com/playlist?list=PLtPJ9lKvJ4oiFnWCsVRElorOLt69YDEnv) - полезный материал по TLS, SSL и HTTPS протоколам.
 * [Основы документирования сетей. NetSkills](https://www.youtube.com/playlist?list=PLcDkQ2Au8aVPmWZ2vXcby73Tl8SA7fp97) - на мой взгляд, это очень редкая тема, которую мало кто освещает. Курс научит Вас рисовать красивые схемы на примере типового дизайна сети.
+
+## Шпаргалки
+
+* [Деление сети на подсети. Пример деления сети.](http://infocisco.ru/cs_subnetting.html)
+* [Шпаргалки для деления сети Часть 1.](http://infocisco.ru/cs_subnetting.html)
+* [Шпаргалки для деления сети Часть 2.](http://infocisco.ru/cs_subnetting_table1.html)
+* [Пример деления сети на подсети графическим способом методом квадратов (PDF и HTML).](http://infocisco.ru/cs_subnetting_table2.html)
+* [Отличный VLSM калькулятор, с помощью которого Вы без проблем разделите любую сеть на подсети с маской переменной длины.](http://infocisco.ru/cs_subnetting_square.html)
+* [Шпаргалка Минимальная базовая настройка маршрутизатора специально для выполнения лабораторных работ и практики (практических заданий) cisco CCNA и ICND.](http://infocisco.ru/vlsm_calculator.html)
+* [Назначение IP-адресов на интерфейсы маршрутизатора.](http://infocisco.ru/cheatsheet_router_configuration_ip_to_interface.html)
+* [Статическая маршрутизация.](http://infocisco.ru/cheatsheet_router_configuration_ip_to_interface.html)
+* [Динамическая маршрутизация. Протокол RIP.](http://infocisco.ru/cheatsheet_static_routing.html)
+* [Таблица сетевых масок, префиксы маски. Короткая запись маски. Шпаргалка.](http://infocisco.ru/cheatsheet_dynamic_routing_protocol_rip.html)
+* [Шпаргалка по протоколу BGP.](https://packetlife.net/media/library/1/BGP.pdf)
+* [Шпаргалка по протоколу EIGRP.](https://packetlife.net/media/library/2/EIGRP.pdf)
+* [Шпаргалка по группе протоколов First Hop Redundancy](https://packetlife.net/media/library/3/First_Hop_Redundancy.pdf) + [статья с описанием.](https://wiki.merionet.ru/articles/protokoly-gruppy-fhrp-first-hop-redundancy-protocols)
+* [Шпаргалка по IEEE 802.11 WLAN.](https://packetlife.net/media/library/4/IEEE_802.11_WLAN.pdf)
+* [Шпаргалка IEEE 802.1X.](https://packetlife.net/media/library/5/IEEE_802.1X.pdf)
+* [Шпаргалка по набору протоколов IPsec.](https://packetlife.net/media/library/6/IPsec.pdf)
+* [Шпаргалка по IPv4 Multicast.](https://packetlife.net/media/library/7/IPv4_Multicast.pdf)
+* [Шпаргалка по IPv6.](https://packetlife.net/media/library/8/IPv6.pdf)
+* [Шпаргалка по протоколу IS-IS.](https://packetlife.net/media/library/9/IS-IS.pdf)
+* [Шпаргалка по протоколу OSPF.](https://packetlife.net/media/library/10/OSPF.pdf)
+* [Шпаргалка по протоколу PPP.](https://packetlife.net/media/library/31/PPP.pdf)
+* [Шпаргалка по протоколу RIP.](https://packetlife.net/media/library/35/RIP.pdf)
+* [Шпаргалка по протоколу STP.](https://packetlife.net/media/library/11/Spanning_Tree.pdf)
+
+## Статьи
+* [Сетевые модели, часть 1. Эталонная сетевая модель OSI.](http://infocisco.ru/network_model_osi.html)
+* [Сетевые модели, часть 2. Сетевая модель TCP/IP или DOD.](http://infocisco.ru/network_model_osi.html)
+* [Сетевые модели, часть 3. Инкапсуляция, декапсуляция, данные, пакеты, фреймы, биты.](http://infocisco.ru/network_model_tcpip.html)
+* [Сетевые устройства. Различие роутера от маршрутизатора, от моста, от коммутатора.](http://infocisco.ru/network_model_encapsulation_pdu.html)
+* [Работа сетевых устройств, отражение работ на сетевой эталонной модели OSI.](http://infocisco.ru/network_devices.html)
+* [Системы счисления, преобразование систем счисления, примеры перевода систем счисления.](http://infocisco.ru/works_network_devices.html)
+* [Типы передачи данных.. Unicast, Multicast, Broadcast, multicast...](http://infocisco.ru/numeral_system.html)
+* [Cisco формула расчёта сетей. Формула сетей и хостов.](http://infocisco.ru/types_communication.html)
+* [OSI - это просто. Модель OSI простым языком.](http://infocisco.ru/cisco_formula_subnetting.html)
+* [Компоненты сети (вычислительной, компьютерной, локальной).](http://infocisco.ru/osi_simple_language.html)
+* [Конечные устройства (end devices), промежуточные устройства (intermediary devices).](http://infocisco.ru/network_components.html)
+* [Cреды передачи (media), программные средства (сервисы и процессы).](http://infocisco.ru/network_components.html)
+
+## Теоретический материал для изучения различных инструментов
+
+* [Онлайн руководство по tcpdump](https://hackware.ru/?p=10246#2) + [Полезный Cheat Sheet от SANS.](https://sansorg.egnyte.com/dl/8VIrX1K87d)
+* 
 
 ## Telegram каналы
 
