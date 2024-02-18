@@ -60,6 +60,7 @@
 * [Шпаргалка по протоколу STP.](https://packetlife.net/media/library/11/Spanning_Tree.pdf)
 
 ## Статьи
+
 * [Сетевые модели, часть 1. Эталонная сетевая модель OSI.](http://infocisco.ru/network_model_osi.html)
 * [Сетевые модели, часть 2. Сетевая модель TCP/IP или DOD.](http://infocisco.ru/network_model_osi.html)
 * [Сетевые модели, часть 3. Инкапсуляция, декапсуляция, данные, пакеты, фреймы, биты.](http://infocisco.ru/network_model_tcpip.html)
