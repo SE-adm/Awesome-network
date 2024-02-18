@@ -75,7 +75,7 @@
 * [TCP/IP Ports database.](https://www.speedguide.net/ports.php)
 * [Принципы сетевых атак и работа сетей.](https://netsim.erinn.io)
 
-## Теоретический материал для изучения различных инструментов
+## Теория для изучения различных инструментов
 
 * [Онлайн руководство по tcpdump.](https://hackware.ru/?p=10246#2) + [Полезный Cheat Sheet от SANS.](https://sansorg.egnyte.com/dl/8VIrX1K87d)
 * [Онлайн руководство по TShark.](https://cisoclub.ru/rukovodstvo-po-tshark/)
