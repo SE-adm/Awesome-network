@@ -89,7 +89,7 @@
 * [@network_quiz](https://t.me/network_quiz) - проверьте свои знания в сетевых технологиях с помощью квизов.
 * [@mikrotikninja](https://t.me/mikrotikninja) - канал по новым компьютерным технологиям и защите компьютерных программ.
 * [@patchcord](https://t.me/patchcord) - блог сетевого инженера. Новости телеком, IT и около IT.
-* [@school_network](https://t.me/school_network) - крупный канал для изучению сетей.
+* [@school_network](https://t.me/school_network) - крупный канал для изучения сетей.
 * [@NetArchNotes](https://t.me/NetArchNotes) - заметки сетевого архитектора.
 * [@ruckusrussia](https://t.me/ruckusrussia) - полезный канал по Wi-Fi сетям.
 * [@it_secur](https://t.me/it_secur) - множество заметок для изучения компьютерных сетей.
