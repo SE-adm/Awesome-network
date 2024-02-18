@@ -6,8 +6,8 @@
 - [Курсы](#Курсы)
 - [Шпаргалки](#Шпаргалки)
 - [Шпаргалки по протоколам](#Шпаргалки-по-протоколам)
+- [Теория для изучения различных инструментов](Теория-для-изучения-различных-инструментов)
 - [Статьи](#Статьи)
-- [Теория](Теория)
 - [Telegram каналы](#Telegram-каналы)
 - [Telegram чаты](#Telegram-чаты)
 - [Telegram комьюнити разных вендоров](#Telegram-комьюнити-разных-вендоров)
@@ -59,6 +59,11 @@
 * [Шпаргалка по протоколу RIP.](https://packetlife.net/media/library/35/RIP.pdf)
 * [Шпаргалка по протоколу STP.](https://packetlife.net/media/library/11/Spanning_Tree.pdf)
 
+## Теория для изучения различных инструментов
+
+* [Онлайн руководство по tcpdump.](https://hackware.ru/?p=10246#2) + [Полезный Cheat Sheet от SANS.](https://sansorg.egnyte.com/dl/8VIrX1K87d)
+* [Онлайн руководство по TShark.](https://cisoclub.ru/rukovodstvo-po-tshark/)
+
 ## Статьи
 
 * [Сетевые модели, часть 1. Эталонная сетевая модель OSI.](http://infocisco.ru/network_model_osi.html)
@@ -75,11 +80,6 @@
 * [Cреды передачи (media), программные средства (сервисы и процессы).](http://infocisco.ru/network_components.html)
 * [TCP/IP Ports database.](https://www.speedguide.net/ports.php)
 * [Принципы сетевых атак и работа сетей.](https://netsim.erinn.io)
-
-## Теория
-
-* [Онлайн руководство по tcpdump.](https://hackware.ru/?p=10246#2) + [Полезный Cheat Sheet от SANS.](https://sansorg.egnyte.com/dl/8VIrX1K87d)
-* [Онлайн руководство по TShark.](https://cisoclub.ru/rukovodstvo-po-tshark/)
 
 ## Telegram каналы
 
