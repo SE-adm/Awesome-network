@@ -79,7 +79,6 @@
 
 * [Онлайн руководство по tcpdump.](https://hackware.ru/?p=10246#2) + [Полезный Cheat Sheet от SANS.](https://sansorg.egnyte.com/dl/8VIrX1K87d)
 * [Онлайн руководство по TShark.](https://cisoclub.ru/rukovodstvo-po-tshark/)
-* 
 
 ## Telegram каналы
 
@@ -122,7 +121,7 @@
 
 ## Telegram боты
 
-[@networkeducationbot](https://t.me/networkeducationbot) - Умеет загадывать вопросы на различные сетевые темы, хвалить за правильные ответы и насмехаться над неправильными.
+* [@networkeducationbot](https://t.me/networkeducationbot) - Умеет загадывать вопросы на различные сетевые темы, хвалить за правильные ответы и насмехаться над неправильными.
 
 ## Подкасты
 
