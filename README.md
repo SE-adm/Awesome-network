@@ -8,11 +8,13 @@
 - [Шпаргалки по протоколам](#Шпаргалки-по-протоколам)
 - [Теория для изучения различных инструментов](https://github.com/SE-adm/Awesome-network?tab=readme-ov-file#теория-для-изучения-различных-инструментов)
 - [Статьи](#Статьи)
+- [YouTube каналы](#YouTube-каналы)
 - [Telegram каналы](#Telegram-каналы)
 - [Telegram чаты](#Telegram-чаты)
 - [Telegram комьюнити разных вендоров](#Telegram-комьюнити-разных-вендоров)
 - [Telegram боты](#Telegram-боты)
 - [Подкасты](#Подкасты)
+
 
 ## Литература
 
@@ -80,6 +82,11 @@
 * [Cреды передачи (media), программные средства (сервисы и процессы).](http://infocisco.ru/network_components.html)
 * [TCP/IP Ports database.](https://www.speedguide.net/ports.php)
 * [Принципы сетевых атак и работа сетей.](https://netsim.erinn.io)
+
+## YouTube каналы
+
+* [Andrey Sozykin](https://www.youtube.com/@AndreySozykin) - Канал всеми известного Андрея Созыкина, который освещает не только тему сетей, но и смежные направления. На его канале опубликованы одни из самых качественных курсов по сетевым технологиям.
+* [Network is reachable.](https://www.youtube.com/@Networkisreachable/playlists) - Полезные лекции и уроки по основам сетей, которые сопровождаются демонстрацией практических примеров настройки Cisco, Huawei, Juniper и решения задач из сертифицированных экзаменов.
 
 ## Telegram каналы
 
