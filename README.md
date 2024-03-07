@@ -8,6 +8,7 @@
 - [Шпаргалки по протоколам](#Шпаргалки-по-протоколам)
 - [Теория для изучения различных инструментов](https://github.com/SE-adm/Awesome-network?tab=readme-ov-file#теория-для-изучения-различных-инструментов)
 - [Статьи](#Статьи)
+- [Awesome-листы](#Awesome-листы)
 - [YouTube каналы](#YouTube-каналы)
 - [Telegram каналы](#Telegram-каналы)
 - [Telegram чаты](#Telegram-чаты)
@@ -83,6 +84,11 @@
 * [TCP/IP Ports database.](https://www.speedguide.net/ports.php)
 * [Принципы сетевых атак и работа сетей.](https://netsim.erinn.io)
 
+## Awesome-листы
+
+* [Useful Wireless Links](https://github.com/skhomm/useful-wireless-links) - масштабная база с полезными материалами для всех неравнодушных к беспроводным сетям: учебные пособия, справочники, калькуляторы, софт, гаджеты и многое другое.
+* [Ekahau в вопросах и ответах...](https://github.com/gcastle2007/Ekahau) - полезная информация по работе с Ekahau.
+
 ## YouTube каналы
 
 * [Andrey Sozykin](https://www.youtube.com/@AndreySozykin) - Канал всеми известного Андрея Созыкина, который освещает не только тему сетей, но и смежные направления. На его канале опубликованы одни из самых качественных курсов по сетевым технологиям.
@@ -117,7 +123,7 @@
 
 * [@sterravpn](https://t.me/sterravpn) - комьюнити С-Терра.
 * [@fortichat](https://t.me/fortichat) - комьюнити Fortinet.
-* [@ekahau_rus](https://t.me/ekahau_rus) - комьюнити Ekahau.
+* [@ekahau_rus](https://t.me/ekahau_rus) - комьюнити по софту и оборудованию для радиопланирования и радиообследований.
 * [@openwrt_ru](https://t.me/openwrt_ru) - комьюнити OpenWRT.
 * [@chkpchat](https://t.me/chkpchat) - комьюнити Check-Point.
 * [@Keenetic_ru](https://t.me/Keenetic_ru) - комьюнити Keenetic.
