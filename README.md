@@ -15,6 +15,7 @@
 - [Telegram комьюнити разных вендоров](#Telegram-комьюнити-разных-вендоров)
 - [Telegram боты](#Telegram-боты)
 - [Подкасты](#Подкасты)
+- [Специализированные сайты](Специализированные сайты)
 
 
 ## Литература
@@ -123,7 +124,7 @@
 
 * [@sterravpn](https://t.me/sterravpn) - комьюнити С-Терра.
 * [@fortichat](https://t.me/fortichat) - комьюнити Fortinet.
-* [@ekahau_rus](https://t.me/ekahau_rus) - комьюнити по софту и оборудованию для радиопланирования и радиообследований.
+* [@ekahau_rus](https://t.me/ekahau_rus) - ekahau комьюнити по софту и оборудованию для радиопланирования и радиообследований.
 * [@openwrt_ru](https://t.me/openwrt_ru) - комьюнити OpenWRT.
 * [@chkpchat](https://t.me/chkpchat) - комьюнити Check-Point.
 * [@Keenetic_ru](https://t.me/Keenetic_ru) - комьюнити Keenetic.
@@ -140,6 +141,10 @@
 ## Подкасты
 
 * [Linkmeup](https://linkmeup.ru/podcasts/) - один из крупных ru подкастов по сетям и не только, доступен в [iTunes](https://itunes.apple.com/ru/podcast/linkmeup.-pervyj-podkast-dla/id1065445951?mt=2), [Google Подкастах](https://podcasts.google.com/feed/aHR0cHM6Ly9saW5rbWV1cC5ydS9yc3MvcG9kY2FzdHM), [Яндекс Музыке](https://music.yandex.ru/album/7060168), [YouTube](https://youtube.com/c/linkmeup-podcast).
+
+## Специализированные сайты
+
+* [WIRELESS LAN PROFESSIONALS](https://wlanprofessionals.com) - полезный ресурс для изучения беспроводных сетей.
 
 
 
