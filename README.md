@@ -53,6 +53,7 @@
 * [Шпаргалка по IPv4 Multicast.](https://packetlife.net/media/library/7/IPv4_Multicast.pdf)
 * [Шпаргалка по IPv6.](https://packetlife.net/media/library/8/IPv6.pdf)
 * [Шпаргалка по IEEE 802.11 WLAN.](https://packetlife.net/media/library/4/IEEE_802.11_WLAN.pdf)
+* [NetworkNightmare. Объемная Mindmap, которая содержит информацию по всевозможным векторам атак на сети.](https://github.com/casterbyte/NetworkNightmare/tree/main)
 
 ## Шпаргалки по протоколам
 
