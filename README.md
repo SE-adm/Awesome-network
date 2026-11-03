@@ -154,6 +154,7 @@
 
 * [WIRELESS LAN PROFESSIONALS](https://wlanprofessionals.com) - полезный ресурс для изучения беспроводных сетей.
 * [Netsim](https://netsim.erinn.io) - визуальные примеры сетевых атак и работа сетей.
+* [Protocol Explorer](https://protocol-explorer-alpha.vercel.app/) - проект, который наглядно визуализирует процесс работы различных сетевых протоколов.
 
 
 
